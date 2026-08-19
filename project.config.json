@@ -1,10 +1,10 @@
 {
   "project": {
-    "name": "__PROJECT_NAME__",
-    "client": "__CLIENT_NAME__",
-    "code": "__PROJECT_CODE__",
-    "start_date": "__START_DATE__",
-    "manager": "__MANAGER_NAME__",
+    "name": "Crimson Studio",
+    "client": "Bluepeak Technologies",
+    "code": "CS-2026-172",
+    "start_date": "2026-08-26",
+    "manager": "Sofia Rodriguez",
     "status": "planning"
   }
 }
