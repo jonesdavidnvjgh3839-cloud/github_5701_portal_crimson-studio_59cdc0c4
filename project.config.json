@@ -1,0 +1,10 @@
+{
+  "project": {
+    "name": "__PROJECT_NAME__",
+    "client": "__CLIENT_NAME__",
+    "code": "__PROJECT_CODE__",
+    "start_date": "__START_DATE__",
+    "manager": "__MANAGER_NAME__",
+    "status": "planning"
+  }
+}
