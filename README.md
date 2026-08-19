@@ -1,13 +1,13 @@
 # Client Project Portal
 
-## Project: __PROJECT_NAME__
+## Project: Crimson Studio
 
 | Field | Value |
 |-------|-------|
-| Project code | __PROJECT_CODE__ |
-| Client | __CLIENT_NAME__ |
-| Start date | __START_DATE__ |
-| Project manager | __MANAGER_NAME__ |
+| Project code | CS-2026-172 |
+| Client | Bluepeak Technologies |
+| Start date | 2026-08-26 |
+| Project manager | Sofia Rodriguez |
 | Status | Planning |
 
 Welcome to the project portal. This repository is the single source of truth for project documentation, content, and assets.
